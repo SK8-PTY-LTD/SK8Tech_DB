@@ -8,7 +8,7 @@ if (!defined('PMA_MINIMUM_COMMON') && !defined('TESTSUITE') ) {
 define('CSS_PATH', 'fallen');
 
 // Set the Brand name, will be set for logo text. Display in menubar.
-$brand = 'SK8Tech';
+$brand = 'SK8Tech | DB';
 
 // Do not edit!!!
 // Or the theme will be broken!
